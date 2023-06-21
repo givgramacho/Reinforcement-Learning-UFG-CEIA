@@ -2,6 +2,17 @@
 ### Reinforcement-Learning-UFG-CEIA
 ### Center of Excellence in Artificial Intelligence (CEIA)
 #### Reinforcement Learning Course (CEIA) 2021
+#### Credits: Center of Excellence in Artificial Intelligence (CEIA)
+#### Advisor: 
+- Anderson Soares - Advisor
+- Luana Martins - Reinforcement Learning Researcher
+- Bryan Lincoln - Reinforcement Learning Researcher
+- Telma - Course coordinator
+- Bruno Brandão - Reinforcement Learning Researcher
+- Luckeciano - Reinforcement Learning Researcher
+
+#### Videos link
+- [**Videos: Classes**](https://drive.google.com/drive/folders/1TGRLHqdjaPW2GRHBPZ9-kBfxm89_2IXl?usp=sharing)
 
 #### Schedule
 
